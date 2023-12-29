@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MayukoYamagishi?theme=unicorn&font=ABeeZee&ext=activity)](https://leetcode.com/MayukoYamagishi/)
 
 <!--
 **mayukoooo/mayukoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
