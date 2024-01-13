@@ -7,3 +7,6 @@
 
 ## 🦄 LeetCode
 [![Leetcode Stats](https://leetcard.jacoblin.cool/MayukoYamagishi?theme=unicorn&font=ABeeZee&ext=heatmap)](https://leetcode.com/MayukoYamagishi/)
+
+## 📨 Contact
+[![](https://img.shields.io/badge/Gmail-violet?style=for-the-badge)](https://github.com/mayukoooo/mayukoooo/discussions/2)
