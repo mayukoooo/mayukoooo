@@ -1,6 +1,6 @@
 ## 👋 Hi there~
 [![](https://img.shields.io/badge/プロフィール-lightpink?style=for-the-badge)](https://github.com/mayukoooo/mayukoooo/discussions/8)
-[![](https://img.shields.io/badge/2024年の目標-red?style=for-the-badge)](https://github.com/mayukoooo/mayukoooo/discussions/9)
+[![](https://img.shields.io/badge/2024年の目標-red?style=for-the-badge)](https://github.com/mayukoooo/mayukoooo/discussions/15)
 [![](https://img.shields.io/badge/学習の記録-lightskyblue?style=for-the-badge)](https://github.com/mayukoooo/mayukoooo/discussions/categories/%E3%83%A1%E3%82%BF%E8%AA%8D%E7%9F%A5)
 
 ## 🍰 Airticle
